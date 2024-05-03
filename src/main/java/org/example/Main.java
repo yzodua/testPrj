@@ -2,9 +2,9 @@ package org.example;
 
 public class Main {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
-        showdo();
-        System.out.println( (new Main()).defineColor(100));
+        System.out.println("Hello world! From devekopment branch");
+        //showdo();
+        //System.out.println( (new Main()).defineColor(100));
     }
 
     public static String test(int speed, int fuelLevel) {
